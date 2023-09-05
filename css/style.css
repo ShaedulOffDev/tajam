@@ -4,6 +4,7 @@
     background-size: cover;
     color: #fff;
     text-align: center;
+    background-attachment: fixed;
 }
 
 :root {
